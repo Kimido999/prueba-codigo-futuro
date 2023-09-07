@@ -14,3 +14,4 @@ if __name__== "__main__":
     usn = float(input("Ingrese su masa en Gramos: "))
     masak = gramos_kgramos(usn)
     print(f"{usn} gramos son {masak} kilogramos")
+    
